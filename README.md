@@ -13,6 +13,6 @@
 
 ![image](https://i.ibb.co/HNLzKmG/image.png)
 
-// You need the X-Token to send request to get the response with the client info
-// You can get the X-Token here: https://api.monobank.ua/    (for Monobank users)
-// Enter this token in application.properties file
+// You need the X-Token to send request to get the response with the client info <br>
+// You can get the X-Token here: https://api.monobank.ua/    (for Monobank users)<br>
+// Enter this token in application.properties file<br>
