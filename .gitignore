@@ -7,6 +7,8 @@
 # Properties
 *.properties
 
+/src/main/resources/application.properties
+
 # BlueJ files
 *.ctxt
 
